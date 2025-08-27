@@ -1,4 +1,4 @@
-## Benvenuti sul profilo di Thomas Antonacci 👋
+## Benvenuti sul profilo di Thomas Antonacci 👋🚲 🏊
 
 Qui troverete le repository dei miei progetti.
 
