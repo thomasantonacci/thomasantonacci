@@ -1,4 +1,14 @@
-## Hi there 👋
+## Benvenuti sul profilo di Thomas Antonacci 👋
+
+Qui troverete le repository dei miei progetti.
+
+Il primo progetto si chiama Presto.it ed è un sito di compravendita di oggetti
+
+Il secondo progetto si chiama Travel Agent ed è un assistente di viaggio virtuale che propone soluzioni di viaggio personalizzate. 
+Il progetto è suddiviso in back end e client. 
+La parte back end comprende il codice python mentre la parte client è stata sviluppata in Laravel.
+
+
 
 <!--
 **thomasantonacci/thomasantonacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
